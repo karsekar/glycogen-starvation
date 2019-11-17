@@ -3,9 +3,11 @@ Python and MATLAB code and data for the E. coli glycogen starvation project
 
 ## Introduction
 
-The data and Python/MATLAB code used for analysis and figure generation of *E. coli* glycogen starvation project is provided here. 
+The data and Python/MATLAB code used for analysis and figure generation of *E. coli* glycogen starvation project is provided here. The manuscript citation is as follows:
 
-https://www.biorxiv.org/content/10.1101/841718v2
+[Bacterial glycogen provides short-term benefits in changing environments](https://www.biorxiv.org/content/10.1101/841718v2)
+
+Karthik Sekar, Stephanie M. Linker, Jen Nguyen, Alix Grünhagen, Roman Stocker, Uwe Sauer
 
 ## The parts
 This Github is divided as follows:
